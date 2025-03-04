@@ -1,0 +1,11 @@
+framework module TrustID {
+  umbrella header "TrustID.h"
+  export *
+
+  module * { export * }
+}
+
+module TrustID.Swift {
+  header "TrustID-Swift.h"
+  requires objc
+}

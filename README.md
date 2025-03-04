@@ -1,1 +1,1 @@
-# trustid-ios-sdk
+# TrustID iOS SDK
